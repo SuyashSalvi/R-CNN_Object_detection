@@ -35,3 +35,10 @@ Matplotlib
 ## Contributors
 
 Suyash Salvi
+
+## Model prediction result:
+<img width="359" alt="Screenshot 2024-04-01 at 9 59 39 PM" src="https://github.com/SuyashSalvi/R-CNN_Object_detection/assets/40499151/4e90effc-b541-44ed-8da0-4adc54da3a66">
+<img width="212" alt="Screenshot 2024-04-01 at 10 00 31 PM" src="https://github.com/SuyashSalvi/R-CNN_Object_detection/assets/40499151/e9e51254-2df0-4258-8a52-6fd32e3041c9">
+<img width="297" alt="Screenshot 2024-04-01 at 10 00 58 PM" src="https://github.com/SuyashSalvi/R-CNN_Object_detection/assets/40499151/9fcc5166-1d14-401e-90f8-d62869dc71c5">
+<img width="214" alt="Screenshot 2024-04-01 at 10 01 24 PM" src="https://github.com/SuyashSalvi/R-CNN_Object_detection/assets/40499151/3ae29c3b-a8b8-4d00-9226-7bf2f5abbd71">
+
