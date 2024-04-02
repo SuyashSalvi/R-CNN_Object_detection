@@ -11,8 +11,6 @@ Object detection is a computer vision task that involves identifying and locatin
 - object_detection_rcnn.ipynb: Colab notebook containing the implementation of object detection using RCNN.
 - Images.zip: Zip file containing the dataset of images for training and testing.
 - Airplanes_Annotations.zip: Zip file containing annotation files for the images, specifying the location of airplanes within each image.
-- X_new.npy: NumPy array file containing preprocessed images for training.
-- y_new.npy: NumPy array file containing labels corresponding to the images for training.
 
 ## Usage
 
